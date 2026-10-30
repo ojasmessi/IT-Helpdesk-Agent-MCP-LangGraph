@@ -1,0 +1,8 @@
+# Tested 30 Oct 2026 with Python 3.13 and these versions
+mcp[cli]>=1.30
+langchain>=1.4
+langchain-openai>=1.7
+langgraph>=1.2
+langchain-mcp-adapters>=0.3
+chainlit>=2.12
+python-dotenv>=1.0
