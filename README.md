@@ -238,3 +238,6 @@ authentication headers (the adapter supports `headers={...}`).
 | Agent hangs at start | The server crashed — run `python steps/step2_test_mcp_client.py` to see the error |
 | Port 8000 in use | `chainlit run app_chainlit.py --port 8001` |
 | Want a clean ticket DB | Delete `mcp_server/helpdesk.db` (it's recreated automatically) |
+
+
+See also my RAG version: IT-Helpdesk-Agent_RAG-Retrieval-Augmented-Generation
